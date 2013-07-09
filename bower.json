@@ -1,0 +1,13 @@
+{
+  "name": "iUI",
+  "version": "0.4.0",
+  "main": "web-app/iui",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
